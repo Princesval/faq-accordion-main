@@ -92,6 +92,10 @@ footer a {
 }
 
 @media(max-width: 425px) {
+    header {
+        background-image: url(assets/images/background-pattern-mobile.svg);
+    }
+
     main {
         margin-left: 25px;
         margin-right: 25px;
